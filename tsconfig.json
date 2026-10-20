@@ -9,14 +9,14 @@
     "outFile": "dist/main.js"
   },
   "files": [
-    "src/models/Prato.ts",
-    "src/models/Funcionario.ts",
-    "src/models/Contratado.ts",
-    "src/models/Freelancer.ts",
-    "src/models/Entrega.ts",
-    "src/repositories/PratoRepository.ts",
-    "src/repositories/FuncionarioRepository.ts",
-    "src/repositories/EntregaRepository.ts",
+    "src/Prato.ts",
+    "src/Funcionario.ts",
+    "src/Contratado.ts",
+    "src/Freelancer.ts",
+    "src/Entrega.ts",
+    "src/PratoRepository.ts",
+    "src/FuncionarioRepository.ts",
+    "src/EntregaRepository.ts",
     "src/index.ts"
   ]
 }
