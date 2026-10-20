@@ -17,6 +17,6 @@
     "src/repositories/PratoRepository.ts",
     "src/repositories/FuncionarioRepository.ts",
     "src/repositories/EntregaRepository.ts",
-    "src/main.ts"
+    "src/index.ts"
   ]
 }

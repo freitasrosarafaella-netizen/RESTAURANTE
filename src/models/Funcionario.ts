@@ -4,7 +4,7 @@ class Funcionario {
     dataContratacao: string;
     cpf: string;
     rg: string;
-    tipo: string; // "contratado" ou "freelancer"
+    tipo: string; 
 
     constructor(nome: string, sexo: string, dataContratacao: string, cpf: string, rg: string, tipo: string) {
         this.nome = nome;
